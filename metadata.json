@@ -1,0 +1,8 @@
+{
+  "name": "نظام أرشفة علب الملفات – مصلحة DEUA",
+  "description": "نظام أرشفة علب الملفات وإدارتها لمصلحة DEUA - جامعة التكوين المتواصل مركز بسكرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
